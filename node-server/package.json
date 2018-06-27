@@ -12,9 +12,9 @@
     "start": "node server.js"
   },
   "engines": {
-  "node": "6.11.0",
-  "nmp": "3.10.10"
-  },  
+  "node": "10.3.0",
+  "npm": "6.1.0"
+  },
   "author": "",
   "license": "ISC",
   "keywords": [],
